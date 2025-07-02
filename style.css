@@ -49,12 +49,12 @@ nav {
 
 .custom-logo {
   font-family: 'Bebas Neue', sans-serif;
-  color: #e50914; /* Netflix red */
-  font-size: 2.5rem;
-  letter-spacing: 2px;
-  width: 150px;
+  color: rgb(124, 7, 7); /* Netflix red */
+  font-size: 2rem;
+  letter-spacing: 3px;
+  width: 100px;
   position: relative;
-  z-index: ;
+  z-index: 1;
 }
 
 
