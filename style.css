@@ -52,7 +52,7 @@ nav {
   color: rgb(124, 7, 7); /* Netflix red */
   font-size: 2rem;
   letter-spacing: 3px;
-  width: 100px;
+  width: 200px;
   position: relative;
   z-index: 1;
 }
